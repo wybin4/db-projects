@@ -1,6 +1,6 @@
 # db-projects
 
-these are certifications from the (freecodecamp relational database course)[https://www.freecodecamp.org/learn/relational-database/#build-a-periodic-table-database-project]. 
+these are certifications from the [freecodecamp relational database course](https://www.freecodecamp.org/learn/relational-database).
 
 1. celestial bodies database
 2. world cup database
